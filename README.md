@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=okxiaoliang4&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okxiaoliang4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okxiaoliang4&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=okxiaoliang4&bg_color=FFFFFF&color=409EFF&line=F85D7F&point=F85D7F&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
